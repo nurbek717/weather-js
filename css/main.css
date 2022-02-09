@@ -128,5 +128,21 @@ span{
  }
  main{
   margin-top:50px;
+  padding-top: 0;
+  padding-bottom: 0;
+ }
+ header{
+   padding-top: 0;
+ }
+ .temp{
+  font-size: 80px;
+  font-weight: 700;
+  margin: 15px 0;
+ }
+
+ .weather{
+  font-size: 26px;
+  font-weight: 500;
+  margin-bottom: 10px;
  }
 }
